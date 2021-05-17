@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:../movie_trailer/Model"
+      name = "Model">
+      <FileRef
+         location = "group:../Controller/MoviesTableViewController.swift">
+      </FileRef>
+   </Group>
    <FileRef
       location = "self:">
    </FileRef>
